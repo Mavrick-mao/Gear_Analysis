@@ -35,7 +35,9 @@ Two neural network models were explored: Long Short-Term Memory (LSTM) and Convo
 - **Noise Pre-processing**: Transforming sound data into images using Mel Spectrogram.
 - **Data Augmentation**: Adding noise and shifting sound to create a diverse dataset.
 - **Model Training**: Training the CNN model to classify different types of damage.
+
 Dataset which used for training:https://huggingface.co/datasets/Maverick-mao/gear_vocie/tree/main
+
 ## Results & Conclusion
 The trained neural network achieved a high accuracy rate of 99.54% in training and 99.57% in validation. The results demonstrate the model's ability to effectively classify different types of damage based on sound analysis. However, further optimization is needed to address the loss metrics and enhance the model's robustness.
 
