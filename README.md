@@ -26,9 +26,9 @@ The system is designed to collect sound data from gears and bearings and upload 
 ## Experimental Setup
 An experimental device was created to simulate various types of gear and bearing damage. This device includes:
 - **Mechanical Part**: Simulates different types of damage using gears and bearings.
-- ![Experimental Device1](https://github.com/Mavrick-mao/Gear_Analysis/blob/main/test/IMG_3534%20(1).jpg)
+ ![Experimental Device1](https://github.com/Mavrick-mao/Gear_Analysis/blob/main/test/IMG_3534%20(1).jpg)
 - **Electric Management**: Controls the recording process using an Arduino and Python script.
-- ![Experimental Device2](https://github.com/Mavrick-mao/Gear_Analysis/blob/main/test/IMG_3535%20(1).jpg)
+ ![Experimental Device2](https://github.com/Mavrick-mao/Gear_Analysis/blob/main/test/IMG_3535%20(1).jpg)
 
 ## Neural Network Configuration
 Two neural network models were explored: Long Short-Term Memory (LSTM) and Convolutional Neural Network (CNN). The CNN model was selected due to its efficiency and accuracy. The process involved:
