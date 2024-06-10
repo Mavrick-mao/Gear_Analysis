@@ -1,5 +1,5 @@
-# Gear_Analysis
-This project is aim to classify the gear damage by voice though neural network.
+# Shutter Gear Damage Prediction System
+## This repository contains the code and resources for a system designed to assess the current state of a shutter's gear by analyzing the sound it produces and predicting its lifespan. This project aims to develop a cost-effective and efficient method for monitoring the health of gears and bearings in shutters using voice analysis and neural networks.
 
 Dataset:
 https://huggingface.co/datasets/Maverick-mao/gear_vocie/tree/main
