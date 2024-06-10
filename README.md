@@ -3,13 +3,13 @@ This repository contains the code and resources for a system designed to assess 
 
 ##Table of Contents
 -Background
--Research Motivation
--System Configuration
--Experimental Setup
--Neural Network Configuration
--Results & Conclusion
--Future Work
--Acknowledgements
+*Research Motivation
+*System Configuration
+*Experimental Setup
+*Neural Network Configuration
+*Results & Conclusion
+*Future Work
++Acknowledgements
 
 
 Dataset:
